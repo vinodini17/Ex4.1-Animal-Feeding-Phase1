@@ -131,7 +131,7 @@ public class MoveForward : MonoBehaviour
 ```
 ## OUTPUT :
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/b1d16902-db83-4034-bf7b-bc3f31c228c8)
 
 
 ## RESULT :
